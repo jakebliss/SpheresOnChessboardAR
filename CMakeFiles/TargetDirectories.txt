@@ -1,0 +1,4 @@
+/Users/jakebliss/College /fourth_year/ar/hw2/CMakeFiles/rebuild_cache.dir
+/Users/jakebliss/College /fourth_year/ar/hw2/CMakeFiles/edit_cache.dir
+/Users/jakebliss/College /fourth_year/ar/hw2/CMakeFiles/camera_calibration.dir
+/Users/jakebliss/College /fourth_year/ar/hw2/CMakeFiles/opengl_cv_skeleton.dir
